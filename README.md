@@ -6,7 +6,6 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: No fun facts!
 
-## Olá, meu nome é {seu nome}!
 
 ### ⚙️ GitHub Analytics
 
