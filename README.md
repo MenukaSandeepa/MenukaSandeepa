@@ -59,6 +59,9 @@
   <h3><b>📍 Profile Visitor Count</b></h3>
 </div>
 
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MenukaSandeepa&theme=react-dark&hide_border=true&area=true) 
+| --- | 
+
 <p align="center">
   <img
     src="https://profile-counter.glitch.me/MenukaSandeepa/count.svg"
