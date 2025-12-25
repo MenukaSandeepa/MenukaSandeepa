@@ -22,7 +22,7 @@
 
 <br>
 <h2 align="left"> 👦 ABOUT ME  </h2> 
-<p>I live up to enhancing the living standards and business of people around the globe harnessing the cutting-edge technologies in the world. I believe that the way of heading forward with the surrounding ones is a blessing and can bring me self-satisfaction which means all I need.</p>
+<p>Enthusiastic and motivated Computer Science undergraduate at the University of Jaffna, with a strong foundation in networking, cybersecurity, and web development. Hands on experience with Cisco networking, React, JavaScript, HTML, CSS, and modern development tools. A quick learner with excellent problem solving skills, eager to apply technical expertise to real-world projects and continuously grow professionally in dynamic and challenging environments.</p>
 
 
 <h3 align="left">Connect with me:</h3>
