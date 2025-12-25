@@ -10,13 +10,13 @@
 
 - 🔭 I’m Undergraduate student **at University of Jaffna**
 
-- 🌱 I’m currently learning **python**
+- 🌱 I’m currently learning **Networking & CyberSecurity**
 
-- 💬 Ask me about **AI/ML Developer**
+- 💬 Future Goals: **You won't believe**
 
-- 📫 How to reach me **yasanjithbgth@gmail.com**
+- 📫 How to reach me **lahirumenuka259@gmail.com**
 
-- ⚡ Fun fact **Thilan**
+- ⚡ Fun fact **Lahiru**
 
 
 
