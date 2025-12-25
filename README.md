@@ -21,8 +21,8 @@
 
 
 <br>
-<h2 align="right"> 👦 ABOUT ME  </h2> 
-<p></p>I live up to enhancing the living standards and business of people around the globe harnessing the cutting-edge technologies in the world. I believe that the way of heading forward with the surrounding ones is a blessing and can bring me self-satisfaction which means all I need.</p>
+<h2 align="left"> 👦 ABOUT ME  </h2> 
+<p>I live up to enhancing the living standards and business of people around the globe harnessing the cutting-edge technologies in the world. I believe that the way of heading forward with the surrounding ones is a blessing and can bring me self-satisfaction which means all I need.</p>
 
 <!--Trophies Section-->  
 ---
