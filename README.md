@@ -21,27 +21,8 @@
 
 
 <br>
-<h2 align="center"> 🚀🚀 Tech Stack Tools  </h2> 
-<table align="center">
-  <td width="50%" align="left">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
-      <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-      <img width="500" align="left" alt="GIF description" src="./Skills_Animation_White.gif">
-    </picture>
-    <br />
-  </td>
-  <td width="50%" align="left">
-    <h3 align="left">Current Learning</h3>
-      <ul  align="left">
-        <li>Genarative AI and Intuitive projects creations.</li>
-        <li>mostly using programming tools are jupyter notebook,google colab and Vs Code etc...</li>
-        <li>AI/ML and Deep Learning Enthusists</li>
-      </br>
-       
-      
-  </td>
-</table>
+<h2 align="center"> 👦 ABOUT ME  </h2> 
+<p></p>I live up to enhancing the living standards and business of people around the globe harnessing the cutting-edge technologies in the world. I believe that the way of heading forward with the surrounding ones is a blessing and can bring me self-satisfaction which means all I need.</p>
 
 <!--Trophies Section-->  
 ---
